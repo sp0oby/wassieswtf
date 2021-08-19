@@ -53,7 +53,7 @@ const wassiesApi = async(req, res) => {
         "name": tokenName,
         "description": "Help us save the Wassie from extinction by adopting one of the little pes.. loveable, adorable, cute creatures. There are 2000 WASSIES roaming across the cryptosphere. They MUST be stopped. Please beware! WASSIES are in disguise and are DANGEROUS.",
         "tokenId" : parseInt(query),
-        "image": `https://gateway.pinata.cloud/ipfs/${trait["imageIPFS"]}`,
+        "image": `https://gateway.pinata.cloud/ipfs/${trait["imagesIPFS"]}`,
         "external_url":"https://www.wassies.wtf",
         "attributes": [   
           {
@@ -69,27 +69,27 @@ const wassiesApi = async(req, res) => {
         "name": tokenName,
         "description": "Help us save the Wassie from extinction by adopting one of the little pes.. loveable, adorable, cute creatures. There are 2000 WASSIES roaming across the cryptosphere. They MUST be stopped. Please beware! WASSIES are in disguise and are DANGEROUS.",
         "tokenId" : parseInt(query),
-        "image": `https://gateway.pinata.cloud/ipfs/${trait["imageIPFS"]}`,
+        "image": `https://gateway.pinata.cloud/ipfs/${trait["imagesIPFS"]}`,
         "external_url":"https://www.wassies.wtf",
         "attributes": [          
           {
-            "trait_type": "background",
+            "trait_type": "Background",
             "value": trait["background"]
           },
           {
-            "trait_type": "body",
+            "trait_type": "Body",
             "value": trait["body"]
           },
           {
-            "trait_type": "shirt",
+            "trait_type": "Shirt",
             "value": trait["shirt"]
           },
           {
-            "trait_type": "face",
+            "trait_type": "Face",
             "value": trait["face"]
           },
           {
-            "trait_type": "weapon",
+            "trait_type": "Weapon",
             "value": trait["weapon"]
           }
     

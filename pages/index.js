@@ -73,7 +73,7 @@ export default function Home() {
                 <div id="traits" className="flex flex-wrap justify-around items-center  mx-6 py-6">
                   <div className="border-4 border-blue-300 p-4"><img src="images/hola.gif" alt="" width="400px" className="feature-image"/></div>
                   <div className="flex flex-col justify-between mx-6 sm:w-1/2 w-4/5 py-6 ">
-                    <h2 className="text-blau Poppitandfinch text-6xl text-center">WASSIES IN DISGUISE</h2>
+                    <h2 className="text-blau Poppitandfinch text-7xl text-center">WASSIES IN DISGUISE</h2>
                     <p className="text-xl text-white my-6  montserrat"> Today, the lifespan of a Wassie is only two weeks.<span className="font-bold"> Our scientists have found a way to extend thier lives.</span> While in the lab, more than 2,000 Wassies escaped <span className="font-bold">and continued their degenerate ways. </span>They have been spotted all over <span className="font-bold"> the cryptosphere. </span> Our team has worked very hard to capture them, but they have taken disguise. <span className="font-bold"> Please help catch </span>  them in your wallet.  
                     </p>
                     <p className="text-xl text-white my-6  montserrat"> *DISCLAIMER* Wassies are dangerous creatures spawned from the depths of Crypto Twitter and should not be held, petted, fed, or kept near children.
@@ -87,7 +87,7 @@ export default function Home() {
                 </div>
 
               <div id="roadmap" className="">    
-              <h2 className="text-6xl text-center Poppitandfinch text-blau my-6">ROADMAP</h2>
+              <h2 className="text-7xl text-center Poppitandfinch text-blau my-6">ROADMAP</h2>
               <ul className="">
                 <li className="text-xl text-white my-6  montserrat"><span className="font-bold"> 20% ETH Donation: </span> This donation will be made to <a target="_blank" href="https://www.autismspeaks.org/" className="underline text-blau font-bold">Autism Speaks</a>, who is working to create a kinder, <span className="font-bold">  </span> more inclusive world for people with autism.</li>
                 <li className="text-xl text-white my-6  montserrat"><span className="font-bold"> Wassie Holders Channel: </span> Holders of WASSIES will be able to join a special Discord chennel to access upcoming projects.</li>

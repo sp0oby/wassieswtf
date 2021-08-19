@@ -53,7 +53,7 @@ export default function Home() {
                     <p className="text-2xl text-white my-6  montserrat">
                     <strong>LAUNCH DATE:</strong> 21 August 2021. 2pm EST <br />‍
                     <span className="text-white text-2xl montserrat"><strong>TOTAL SUPPLY: 2000</strong> Wassies<br/><strong>PRICE: 0.02 ETH </strong>each.</span></p>
-                    <iframe src="https://free.timeanddate.com/countdown/i7vcex5b/n107/cf11/cm0/cu4/ct0/cs1/ca2/co0/cr0/ss0/cacfff/cpcfff/pct/tcfff/fn3/fs100/szw448/szh189/iso2021-08-19T21:00:00" allowtransparency="true" frameBorder="0" width="425" height="25"></iframe>
+                    <iframe src="https://free.timeanddate.com/countdown/i7vcex5b/n107/cf11/cm0/cu4/ct0/cs1/ca2/co0/cr0/ss0/cacfff/cpcfff/pct/tcfff/fn3/fs100/szw448/szh189/iso2021-08-21T21:00:00" allowtransparency="true" frameBorder="0" width="425" height="25"></iframe>
 
                   </div>
                   <img className="lg:w-1/2 w-3/4" src="images/hola.png" width="500px" />

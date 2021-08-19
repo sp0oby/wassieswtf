@@ -53,7 +53,7 @@ const wassiesApi = async(req, res) => {
         "name": tokenName,
         "description": "Help us save the Wassie from extinction by adopting one of the little pes.. loveable, adorable, cute creatures. There are 2000 WASSIES roaming across the cryptosphere. They MUST be stopped.",
         "tokenId" : parseInt(query),
-        "image": `https://gateway.pinata.cloud/ipfs/${trait["imageIPFS"]}`,
+        "image": `https://gateway.pinata.cloud/ipfs/${trait["imagesIPFS"]}`,
         "external_url":"https://www.wassies.wtf",
         "attributes": [   
           {
@@ -69,7 +69,7 @@ const wassiesApi = async(req, res) => {
         "name": tokenName,
         "description": "Help us save the Wassie from extinction by adopting one of the little pes.. loveable, adorable, cute creatures. There are 2000 WASSIES roaming across the cryptosphere. They MUST be stopped.",
         "tokenId" : parseInt(query),
-        "image": `https://gateway.pinata.cloud/ipfs/${trait["imageIPFS"]}`,
+        "image": `https://gateway.pinata.cloud/ipfs/${trait["imagesIPFS"]}`,
         "external_url":"https://www.wassies.wtf",
         "attributes": [          
           {

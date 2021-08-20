@@ -74,13 +74,13 @@ export default function Home() {
                   <div className="border-4 border-blue-300 p-4"><img src="images/hola.gif" alt="" width="400px" className="feature-image"/></div>
                   <div className="flex flex-col justify-between mx-6 sm:w-1/2 w-4/5 py-6 ">
                     <h2 className="text-blau Poppitandfinch text-7xl text-center">WASSIES IN DISGUISE</h2>
-                    <p className="text-xl text-white my-6  montserrat"> Today, the lifespan of a Wassie is only two weeks.<span className="font-bold"> Our scientists have found a way to extend thier lives.</span> While in the lab, more than 2,000 Wassies escaped <span className="font-bold">and continued their degenerate ways. </span>They have been spotted all over <span className="font-bold"> the cryptosphere. </span> Our team has worked very hard to find them, but they have taken disguise. <span className="font-bold"> Please help catch </span> them in your wallet.  
+                    <p className="text-xl text-white my-6  montserrat"> Today, the lifespan of a Wassie is only fourty days.<span className="font-bold"> Our scientists have found a way to extend thier lives.</span> While in the lab, more than 2,000 Wassies escaped <span className="font-bold">and continued their degenerate ways. </span>They have been spotted all over <span className="font-bold"> the cryptosphere. </span> Our team has worked very hard to find them, but they have taken disguise. <span className="font-bold"> Please help catch </span> them in your wallet.  
                     </p>
                     <p className="text-xl text-white my-6  montserrat"> *DISCLAIMER* Wassies are dangerous creatures spawned from the depths of Crypto Twitter and should not be held, petted, fed, or kept near children.
                     </p>
                     <p className="text-xl text-white my-6  montserrat"> Some are known to carry weapons and disguise themselves as humans. Many think they are relevent.
                     </p>
-                    <p className="text-xl text-white my-6  montserrat"> If you see a Wassie in the wild you are obligated to kill it by any means necessary.
+                    <p className="text-xl text-white my-6  montserrat"> If you see a Wassie in the wild (or your fridge) you are obligated to kill it by any means necessary.
   
                     </p>
                   </div>

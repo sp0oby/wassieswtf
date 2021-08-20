@@ -48,7 +48,7 @@ export default function Home() {
             <div className="flex flex-wrap lg:flex-nowrap justify-around items-center">
                   <div className="lg:w-1/2 w-3/4">
                     <h1 className="text-6xl Poppitandfinch text-white ">Crypto<span className="text-blau"> Twitter</span></h1>
-                    <p className="text-2xl text-white my-6  montserrat">has been blessed with the presence of these little shi..., I mean <span className="text-5xl Poppitandfinch ">WASSIES!</span> <span className="text-blau text-5xl Poppitandfinch">WASSIES</span> <span className="text-5xl Poppitandfinch">sadly</span>  <span className="text-span-2 font-bold">only have a two week lifespan (yeah, seriously)</span>.<br />‍<br />But, we&#x27;ve found a way to extended their mischievous, degenerate lives on the <br/>‍<span className="text-blau text-5xl Poppitandfinch">blockchain! </span> <br/>
+                    <p className="text-2xl text-white my-6  montserrat">has been blessed with the presence of these little shi..., I mean <span className="text-5xl Poppitandfinch ">WASSIES!</span> <span className="text-blau text-5xl Poppitandfinch">WASSIES</span> <span className="text-5xl Poppitandfinch">sadly</span>  <span className="text-span-2 font-bold">only have a fourty day lifespan (yeah, seriously)</span>.<br />‍<br />But, we&#x27;ve found a way to extended their mischievous, degenerate lives on the <br/>‍<span className="text-blau text-5xl Poppitandfinch">blockchain! </span> <br/>
                     </p>
                     <p className="text-2xl text-white my-6  montserrat">
                     <strong>LAUNCH DATE:</strong> 21 August 2021. 2pm EST <br />‍
@@ -74,7 +74,7 @@ export default function Home() {
                   <div className="border-4 border-blue-300 p-4"><img src="images/hola.gif" alt="" width="400px" className="feature-image"/></div>
                   <div className="flex flex-col justify-between mx-6 sm:w-1/2 w-4/5 py-6 ">
                     <h2 className="text-blau Poppitandfinch text-7xl text-center">WASSIES IN DISGUISE</h2>
-                    <p className="text-xl text-white my-6  montserrat"> Today, the lifespan of a Wassie is only fourty days.<span className="font-bold"> Our scientists have found a way to extend thier lives.</span> While in the lab, more than 2,000 Wassies escaped <span className="font-bold">and continued their degenerate ways. </span>They have been spotted all over <span className="font-bold"> the cryptosphere. </span> Our team has worked very hard to find them, but they have taken disguise. <span className="font-bold"> Please help catch </span> them in your wallet.  
+                    <p className="text-xl text-white my-6  montserrat"> Today, the lifespan of a Wassie is only fourty days.<span className="font-bold"> Our scientists have found a way to extend their lives.</span> While in the lab, more than 2,000 Wassies escaped <span className="font-bold">and continued their degenerate ways. </span>They have been spotted all over <span className="font-bold"> the cryptosphere. </span> Our team has worked very hard to find them, but they have taken disguise. <span className="font-bold"> Please help catch </span> them in your wallet.  
                     </p>
                     <p className="text-xl text-white my-6  montserrat"> *DISCLAIMER* Wassies are dangerous creatures spawned from the depths of Crypto Twitter and should not be held, petted, fed, or kept near children.
                     </p>

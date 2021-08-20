@@ -1904,8 +1904,8 @@ contract WassiesWTF is ERC721, Ownable {
     
     mapping(uint => string) public wassiesNames;
     
-    // Reserve 25 WASSIES for team - Giveaways/Prizes etc
-    uint public wassiesReserve = 25;
+    // Reserve 5 WASSIES for team - Giveaways/Prizes etc
+    uint public wassiesReserve = 5;
     
     event wassiesNameChange(address _by, uint _tokenId, string _name);
     

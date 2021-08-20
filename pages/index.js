@@ -99,7 +99,7 @@ export default function Home() {
               </div>
               
               <div id="team" className="mx-12 my-16 ">
-                <h2 className="text-7xl text-center Poppitandfinch text-blau my-4">WASSIE DREAM TEAM</h2>
+                <h2 className="text-7xl text-center Poppitandfinch text-blau my-4">WASSIES DREAM TEAM</h2>
                 <div className="flex justify-around flex-wrap">
                   <div className="flex flex-col  my-6" style={{width:"360px"}}>
                     <div className="cards-image-mask"><img src="/images/j.png" width="360px" alt="" className="cards-image" /></div>

@@ -104,7 +104,7 @@ const wassiesApi = async(req, res) => {
     res.json(metadata)
   } else {
     res.statuscode = 404
-    res.json({error: "The banana you requested is out of range"})
+    res.json({error: "The wassie you requested is out of range"})
 
   }
 

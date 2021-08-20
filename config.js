@@ -1,9 +1,9 @@
 
 // GET YOUR INFURA API ENDPOINT FROM https://infura.io/
-export const INFURA_ADDRESS = "https://rinkeby.infura.io/v3/581208e1e6134985ba3dbfa9dba9eaad"
+export const INFURA_ADDRESS = "https://mainnet.infura.io/v3/581208e1e6134985ba3dbfa9dba9eaad"
 
 
-export const ADDRESS = "0x4D6439e117537aFf3B645df99D6F59Cb096E0b3D"
+export const ADDRESS = "0x459c5ab0f63dd2303e973f97235587498c6bf7e2"
 
 export const ABI = [
 	{

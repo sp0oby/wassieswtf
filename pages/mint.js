@@ -114,7 +114,7 @@ export default function Mint() {
         <link rel="icon" href="/images/favicon.jpg" />
 
         <meta property="og:title" content="Wassies WTF" key="ogtitle" />
-        <meta property="og:description" content="Help us save the Wassie from extinction by adopting one of the little pes.. loveable, adorable, cute creatures." key="ogdesc" />
+        <meta property="og:description" content="elp us save the Wassie from extinction by adopting one of the little pes.. loveable, adorable, cute creatures. There are 2000 randomly generated Wassies waiting to be minted." key="ogdesc" />
         <meta property="og:type" content="website" key="ogtype" />
         <meta property="og:url" content="https://wassies.wtf/" key="ogurl"/>
         <meta property="og:image" content="https://wassies.wtf/images/Hola.gif" key="ogimage"/>
@@ -125,7 +125,7 @@ export default function Mint() {
         <meta property="twitter:domain" content="wassies.wtf" key="twdomain" />
         <meta property="twitter:url" content="https://wassies.wtf/" key="twurl" />
         <meta name="twitter:title" content="Wassies WTF" key="twtitle" />
-        <meta name="twitter:description" content="Help us save the Wassie from extinction by adopting one of the little pes.. loveable, adorable, cute creatures." key="twdesc" />
+        <meta name="twitter:description" content="elp us save the Wassie from extinction by adopting one of the little pes.. loveable, adorable, cute creatures. There are 2000 randomly generated Wassies waiting to be minted." key="twdesc" />
         <meta name="twitter:image" content="https://wassies.wtf/images/Hola.gif" key="twimage" />
       </Head>
 

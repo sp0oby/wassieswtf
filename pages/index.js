@@ -9,7 +9,7 @@ export default function Home() {
         <link rel="icon" href="/images/favicon.jpg" />
         <meta name="viewport"content="width=device-width, initial-scale=1.0" />
         <meta property="og:title" content="Wassies WTF" key="ogtitle" />
-        <meta property="og:description" content="Help us save the Wassie from extinction by adopting one of the little pes.. loveable, adorable, cute creatures. " key="ogdesc" />
+        <meta property="og:description" content="Help us save the Wassie from extinction by adopting one of the little pes.. loveable, adorable, cute creatures. There are 2000 randomly generated Wassies waiting to be minted." key="ogdesc" />
         <meta property="og:type" content="website" key="ogtype" />
         <meta property="og:url" content="https://wassies.wtf/" key="ogurl"/>
         <meta property="og:image" content="https://wassies.wtf/images/Hola.gif" key="ogimage"/>
@@ -20,7 +20,7 @@ export default function Home() {
         <meta property="twitter:domain" content="wassies.wtf" key="twdomain" />
         <meta property="twitter:url" content="https://wassies.wtf/" key="twurl" />
         <meta name="twitter:title" content="Wassies WTF" key="twtitle" />
-        <meta name="twitter:description" content="Help us save the Wassie from extinction by adopting one of the little pes.. loveable, adorable, cute creatures. " key="twdesc" />
+        <meta name="twitter:description" content="Help us save the Wassie from extinction by adopting one of the little pes.. loveable, adorable, cute creatures. There are 2000 randomly generated Wassies waiting to be minted." key="twdesc" />
         <meta name="twitter:image" content="https://wassies.wtf/images/Hola.gif" key="twimage" />
       </Head>
 
@@ -92,7 +92,7 @@ export default function Home() {
                 <li className="text-xl text-white my-6  montserrat"><span className="font-bold"> 20% ETH Donation: </span> This donation will be made to <a target="_blank" href="https://www.autismspeaks.org/" className="underline text-blau font-bold">Autism Speaks</a>, who is working to create a kinder, <span className="font-bold">  </span> more inclusive world for people with autism.</li>
                 <li className="text-xl text-white my-6  montserrat"><span className="font-bold"> Wassie Holders Channel: </span> Holders of WASSIES will be able to join a special Discord channel to access upcoming projects.</li>
                 <li className="text-xl text-white my-6  montserrat"><span className="font-bold"> Meme Contest: </span> WASSIES NFT holders will be eligible to participate in meme contest for WASSIES and ETHERUEM prizes.</li>
-
+                <li className="text-xl text-white my-6  montserrat"><span className="font-bold"> Community Engagement: </span> Grow the community via Crypto Twitter influencers to increase trade volume (20% donated to charity monthly).</li>
               </ul>
 
 

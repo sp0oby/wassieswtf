@@ -89,7 +89,7 @@ export default function Home() {
               <div id="roadmap" className="">    
               <h2 className="text-7xl text-center Poppitandfinch text-blau my-6">ROADMAP</h2>
               <ul className="">
-                <li className="text-xl text-white my-6  montserrat"><span className="font-bold"> 20% ETH Donation: </span> This donation will be made to <a target="_blank" href="https://www.autismspeaks.org/" className="underline text-blau font-bold">Autism Speaks</a>, who is working to create a kinder, <span className="font-bold">  </span> more inclusive world for people with autism.</li>
+                <li className="text-xl text-white my-6  montserrat"><span className="font-bold"> 20% ETH Donation/100% Minted: </span> This donation will be made to <a target="_blank" href="https://www.autismspeaks.org/" className="underline text-blau font-bold">Autism Speaks</a>, who is working to create a kinder, <span className="font-bold">  </span> more inclusive world for people with autism. Proof of transaction will be linked.</li>
                 <li className="text-xl text-white my-6  montserrat"><span className="font-bold"> Wassie Holders Channel: </span> Holders of WASSIES will be able to join a special Discord channel to access upcoming projects.</li>
                 <li className="text-xl text-white my-6  montserrat"><span className="font-bold"> Meme Contest: </span> WASSIES NFT holders will be eligible to participate in meme contest for WASSIES and ETHERUEM prizes.</li>
                 <li className="text-xl text-white my-6  montserrat"><span className="font-bold"> Community Engagement: </span> Grow the community via Crypto Twitter influencers to increase trade volume (20% donated to charity monthly).</li>

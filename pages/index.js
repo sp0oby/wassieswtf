@@ -34,7 +34,7 @@ export default function Home() {
               <a href="#roadmap" className="text-4xl text-white hover:text-white m-6">Roadmap</a>
               <a href="#team" className="text-4xl text-white hover:text-white m-6">Team</a>
               <a href="https://twitter.com/wassieswtf" className="text-4xl  hover:text-white m-6 text-blau">TWITTER</a>
-              <a href="https://discord.gg/DcJhqMXR" className="text-4xl  hover:text-white m-6 text-blau">DISCORD</a>
+              <a href="https://discord.gg/WKBSfPaU" className="text-4xl  hover:text-white m-6 text-blau">DISCORD</a>
             </nav>
              
           </div>

@@ -32,7 +32,7 @@ export default function Home() {
               <a href="/mint" className="text-4xl text-white hover:text-white m-6">Mint</a>
               <a href="#traits" className="text-4xl text-white hover:text-white m-6">Wassie Traits</a>
               <a href="#roadmap" className="text-4xl text-white hover:text-white m-6">Roadmap</a>
-              <a href="#team" className="text-4xl text-white hover:text-white m-6">Team</a>
+              <a href="https://opensea.io/collection/wassieswtf" className="text-4xl text-white hover:text-white m-6">Collection</a>
               <a href="https://twitter.com/wassieswtf" className="text-4xl  hover:text-white m-6 text-blau">TWITTER</a>
               <a href="https://discord.gg/WKBSfPaU" className="text-4xl  hover:text-white m-6 text-blau">DISCORD</a>
             </nav>

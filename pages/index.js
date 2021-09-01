@@ -48,7 +48,7 @@ export default function Home() {
             <div className="flex flex-wrap lg:flex-nowrap justify-around items-center">
                   <div className="lg:w-1/2 w-3/4">
                     <h1 className="text-6xl Poppitandfinch text-white ">Crypto<span className="text-blau"> Twitter</span></h1>
-                    <p className="text-2xl text-white my-6  montserrat">has been blessed with the presence of these little shi..., I mean <span className="text-5xl Poppitandfinch ">WASSIES!</span> <span className="text-blau text-5xl Poppitandfinch">WASSIES</span> <span className="text-5xl Poppitandfinch">sadly</span>  <span className="text-span-2 font-bold">only have a fourty day lifespan (yeah, seriously)</span>.<br />‍<br />But, we&#x27;ve found a way to extended their mischievous, degenerate lives on the <br/>‍<span className="text-blau text-5xl Poppitandfinch">blockchain! </span> <br/>
+                    <p className="text-2xl text-white my-6  montserrat">has been blessed with the presence of these little shi..., I mean <span className="text-5xl Poppitandfinch ">WASSIES!</span> <span className="text-blau text-5xl Poppitandfinch">WASSIES</span> <span className="text-5xl Poppitandfinch">sadly</span>  <span className="text-span-2 font-bold">only have a forty day lifespan (yeah, seriously)</span>.<br />‍<br />But, we&#x27;ve found a way to extended their mischievous, degenerate lives on the <br/>‍<span className="text-blau text-5xl Poppitandfinch">blockchain! </span> <br/>
                     </p>
                     <p className="text-2xl text-white my-6  montserrat">
                     <strong>LAUNCH DATE:</strong> 21 August 2021. 2pm EST <br />‍
